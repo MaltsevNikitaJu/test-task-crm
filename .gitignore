@@ -1,0 +1,9 @@
+node_modules
+dist
+.env
+.env.local
+*.local
+.npmrc
+data
+test-results.txt
+tsconfig.tsbuildinfo
